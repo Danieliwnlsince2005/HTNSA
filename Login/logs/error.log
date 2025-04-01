@@ -1,0 +1,45 @@
+[31-Mar-2025 13:28:33 Europe/Berlin] New CSRF token generated: 260a00c710302dc0a489effeb44710d672844834e114fcad426a3ab9044c790f
+[31-Mar-2025 14:54:48 Europe/Berlin] Database connection successful
+[31-Mar-2025 14:55:08 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:00:37 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:06:43 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:06:43 Europe/Berlin] User logged in successfully: testuser
+[31-Mar-2025 15:08:25 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:08:25 Europe/Berlin] User logged in successfully: testuser
+[31-Mar-2025 15:10:58 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:12:09 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:12:30 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:12:37 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:13:00 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:13:14 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:13:29 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:13:29 Europe/Berlin] Failed login attempt for username: swaop
+[31-Mar-2025 15:13:42 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:13:42 Europe/Berlin] User logged in successfully: Mark
+[31-Mar-2025 15:32:19 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:32:19 Europe/Berlin] User logged in successfully: Mark
+[31-Mar-2025 15:40:46 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:40:46 Europe/Berlin] Failed login attempt for username: dan
+[31-Mar-2025 15:40:56 Europe/Berlin] Database connection successful
+[31-Mar-2025 15:40:56 Europe/Berlin] User logged in successfully: Mark
+[31-Mar-2025 16:29:09 Europe/Berlin] Database connection successful
+[31-Mar-2025 16:29:09 Europe/Berlin] User logged in successfully: Mark
+[31-Mar-2025 16:48:45 Europe/Berlin] Database connection successful
+[31-Mar-2025 16:48:45 Europe/Berlin] Failed login attempt for username: mi
+[31-Mar-2025 16:49:09 Europe/Berlin] Database connection successful
+[31-Mar-2025 16:49:19 Europe/Berlin] Database connection successful
+[31-Mar-2025 16:49:19 Europe/Berlin] User logged in successfully: sero
+[01-Apr-2025 01:59:52 Europe/Berlin] Database connection successful
+[01-Apr-2025 01:59:59 Europe/Berlin] Database connection successful
+[01-Apr-2025 02:00:05 Europe/Berlin] Database connection successful
+[01-Apr-2025 02:01:54 Europe/Berlin] Database connection successful
+[01-Apr-2025 02:02:06 Europe/Berlin] Database connection successful
+[01-Apr-2025 02:02:06 Europe/Berlin] User logged in successfully: iwnl
+[01-Apr-2025 02:26:13 Europe/Berlin] Database connection successful
+[01-Apr-2025 02:26:13 Europe/Berlin] User logged in successfully: iwnl
+[01-Apr-2025 02:55:47 Europe/Berlin] Database connection successful
+[01-Apr-2025 02:55:47 Europe/Berlin] User logged in successfully: iwnl
+[01-Apr-2025 03:01:48 Europe/Berlin] Database connection successful
+[01-Apr-2025 03:01:48 Europe/Berlin] Failed login attempt for username: dan
+[01-Apr-2025 03:01:56 Europe/Berlin] Database connection successful
+[01-Apr-2025 03:01:56 Europe/Berlin] User logged in successfully: iwnl
